@@ -1,0 +1,5 @@
+C:\Users\IEUser\Documents\hslu\fs17\csa\project\hslu_csa_client\CSA_Testat2_client\CSA_Testat2_client\bin\Release\CSA_Testat2_client.exe.config
+C:\Users\IEUser\Documents\hslu\fs17\csa\project\hslu_csa_client\CSA_Testat2_client\CSA_Testat2_client\bin\Release\CSA_Testat2_client.exe
+C:\Users\IEUser\Documents\hslu\fs17\csa\project\hslu_csa_client\CSA_Testat2_client\CSA_Testat2_client\bin\Release\CSA_Testat2_client.pdb
+C:\Users\IEUser\Documents\hslu\fs17\csa\project\hslu_csa_client\CSA_Testat2_client\CSA_Testat2_client\obj\Release\CSA_Testat2_client.exe
+C:\Users\IEUser\Documents\hslu\fs17\csa\project\hslu_csa_client\CSA_Testat2_client\CSA_Testat2_client\obj\Release\CSA_Testat2_client.pdb

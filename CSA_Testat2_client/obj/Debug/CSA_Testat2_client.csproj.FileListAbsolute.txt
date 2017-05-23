@@ -1,0 +1,6 @@
+C:\Users\IEUser\Documents\hslu\fs17\csa\project\hslu_csa_client\CSA_Testat2_client\CSA_Testat2_client\bin\Debug\CSA_Testat2_client.exe.config
+C:\Users\IEUser\Documents\hslu\fs17\csa\project\hslu_csa_client\CSA_Testat2_client\CSA_Testat2_client\bin\Debug\CSA_Testat2_client.exe
+C:\Users\IEUser\Documents\hslu\fs17\csa\project\hslu_csa_client\CSA_Testat2_client\CSA_Testat2_client\bin\Debug\CSA_Testat2_client.pdb
+C:\Users\IEUser\Documents\hslu\fs17\csa\project\hslu_csa_client\CSA_Testat2_client\CSA_Testat2_client\obj\Debug\CSA_Testat2_client.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\hslu\fs17\csa\project\hslu_csa_client\CSA_Testat2_client\CSA_Testat2_client\obj\Debug\CSA_Testat2_client.exe
+C:\Users\IEUser\Documents\hslu\fs17\csa\project\hslu_csa_client\CSA_Testat2_client\CSA_Testat2_client\obj\Debug\CSA_Testat2_client.pdb
