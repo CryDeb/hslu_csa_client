@@ -12,7 +12,7 @@ namespace CSA_Testat2_client
     {
         static void Main(string[] args)
         {
-            var ipAddress = "192.168.1.13";
+            var ipAddress = "192.168.1.10";
             var port = 34343;
             var stringMessage = ""; 
             if (args.Length == 0)
@@ -40,6 +40,7 @@ namespace CSA_Testat2_client
             try
             {
                 TcpClient client = new TcpClient(ipAddress, port);
+                client.SendTimeout = 10;
                 var message = System.Text.Encoding.ASCII.GetBytes(stringMessage);
                 NetworkStream stream = client.GetStream();
 
@@ -47,11 +48,12 @@ namespace CSA_Testat2_client
                 stream.Write(message, 0, message.Length);
                 stream.Close();
                 client.Close();
-                Console.WriteLine("Done Writing. Pleas press a key to exit.");
+                Console.Write("Done Writing.");
             } catch (Exception e)
             {
-                Console.WriteLine("Exception appeard. Destination Host unreachable");
+                Console.WriteLine("Exception appeard. Destination Host unreachable. ");
             }
+            Console.WriteLine("Please press a key to exit.");
             Console.ReadKey();
         }
     }
